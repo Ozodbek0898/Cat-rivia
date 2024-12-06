@@ -1,2 +1,2 @@
-# Cat-rivia
+# Cat-Trivia
 Cat Trivia
